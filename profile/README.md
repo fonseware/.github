@@ -11,7 +11,7 @@
 #### **👨🏻‍💻 team**
 > [<img src="https://avatars.githubusercontent.com/u/58655133?v=4" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer
 
-> #### 🌏 view our site [fonseware.com](https://fonseware.com) [^1]
+> #### 🌏 view our site [fonseware.com](https://fnswe.com) [^1]
 
 > #### ✉️ mail us at [hello@fonseware.com](mailto:hello@fonseware.com)
 
