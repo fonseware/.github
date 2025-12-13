@@ -1,5 +1,5 @@
-#### **🛠️ we currently work on:**
-
+#### **🛠️ we currently work on:**  
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fw hub**]() — all fonseware programs into one platform.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**vendere**]() — a free custom point of sale system software as a passion project.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**crypta**]() — a free file encyption and decryption software as a passion project.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**castora**]() — a free custom broadcast playout software for community & small broadcasters.  
