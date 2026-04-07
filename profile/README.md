@@ -6,7 +6,7 @@
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**scrinii instrumenta**]() — a free set of utlilty software for oled screen users.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**TBA**]() — a future 3d video game i am working on.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">](https://github.com/fonseware/electronjs-setup)&nbsp;&nbsp;[**electron.js setup**](https://github.com/fonseware/electronjs-setup) — a free electron.js setup script which helps users to create new electron projects.  
-> . . . and more repos [here](https://github.com/shannonfonseka?tab=repositories)
+> . . . and more repos [here](https://github.com/orgs/fonseware/repositories)
 
 #### **👨🏻‍💻 team**
 > [<img src="https://github.com/shannonfonseka.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer  
