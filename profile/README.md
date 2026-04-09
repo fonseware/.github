@@ -12,9 +12,8 @@
 > [<img src="https://github.com/shannonfonseka.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer  
 > [<img src="https://github.com/LordWacxa.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [LordWacxa](https://github.com/shannonfonseka/) tester & brainstormer
 
-> #### 🌏 view our site [fonseware.com](https://fnswe.com) [^1]
-
+#### **🌐 web and contact**
+> #### 🌏 view our site [fonseware.com](https://fnswe.me) [^1]
 > #### ✉️ mail us at [hello@fonseware.com](mailto:hello@fonseware.com)
-
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
 [^1]: site is under construction, you may see broken links and missing content.
