@@ -8,7 +8,10 @@
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">](https://github.com/fonseware/electronjs-setup)&nbsp;&nbsp;[**electron.js setup**](https://github.com/fonseware/electronjs-setup) — a free electron.js setup script which helps users to create new electron projects.  
 > . . . and more repos [here](https://github.com/orgs/fonseware/repositories)
 
-#### **👨🏻‍💻 team**
+#### **👨🏻‍💻 our tech stack**
+> <kbd>c#</kbd> <kbd>vb.net</kbd> <kbd>python</kbd> <kbd>html</kbd> <kbd>css</kbd> <kbd>tw-css</kbd> <kbd>sql</kbd> <kbd>nosql</kbd> <kbd>godot-engine</kbd> <kbd>krita</kbd> <kbd>coreldraw</kbd>
+
+#### **🧍🏻‍♂️ team**
 > [<img src="https://github.com/shannonfonseka.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer  
 > [<img src="https://github.com/LordWacxa.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [LordWacxa](https://github.com/shannonfonseka/) tester & brainstormer
 
