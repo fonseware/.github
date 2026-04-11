@@ -17,6 +17,16 @@
 
 #### **🌐 web and contact**
 > #### 🌏 view our site [fonseware.com](https://fnswe.me) [^1]
+[^1]: site is under construction, you may see broken links and missing content.
 > #### ✉️ mail us at [hello@fonseware.com](mailto:hello@fonseware.com)
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
-[^1]: site is under construction, you may see broken links and missing content.
+
+#### **💡 note**
+> #### responsible ai usage
+> we use ai as a powerful tool to automate mundane, repetitive tasks and streamline the boring bits of development. however, we draw a hard line when it comes to the "soul" of our projects. every bit of creative judgment, architectural logic, and artistic direction is handcrafted by us. ai helps us work faster, but the actual "art" and thinking behind our software, games and our works remain 100% human-made.
+> #### energy & environmental impact
+> running ai is power hungry, and we don't take that lightly. to keep things as green as possible, we self host a significant portion of our ai infrastructure locally. our home based servers are powered by a solar energy system, allowing us to offset the electricity consumption of our models with renewable energy. by keeping our compute local and solar-powered, we aim to minimise our carbon footprint and stay mindful of the water and energy costs associated with global data centers.
+> #### company direction
+> please note that we are not open for freelance commissions or external projects at this time. every piece of software or content we release is the result of internal company decisions and personal creative vision. we build what we want to see in the world, on our own terms.
+
+> <sub> © fonseka software interactive </sub>
