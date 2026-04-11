@@ -9,7 +9,7 @@
 > . . . and more repos [here](https://github.com/orgs/fonseware/repositories)
 
 #### **👨🏻‍💻 our tech stack**
-> <kbd>c#</kbd> <kbd>vb.net</kbd> <kbd>python</kbd> <kbd>html</kbd> <kbd>css</kbd> <kbd>tw-css</kbd> <kbd>sql</kbd> <kbd>nosql</kbd> <kbd>godot-engine</kbd> <kbd>krita</kbd> <kbd>coreldraw</kbd>
+> <kbd>windows .net programming</kbd>  <kbd>website developement</kbd>  <kbd>media, arts & entertainment</kbd>  <kbd>architecture & design</kbd>  <kbd>server architecture & hosting</kbd>  <kbd>docker containerisations</kbd> <kbd>2d & 3d design</kbd> 
 
 #### **🧍🏻‍♂️ team**
 > [<img src="https://github.com/shannonfonseka.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer  
