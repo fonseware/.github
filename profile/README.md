@@ -4,7 +4,7 @@
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**secura crypta**]() — an upcoming free file encyption and decryption software as a passion project.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**eventus**]() — an upcoming free custom broadcast playout software for community & small broadcasters.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**scrinii instrumenta**]() — an upcoming free set of utlilty software for oled screen users.  
-> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**TBA**]() — a future 3d video game i am working on.  
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**TBA**]() — an upcoming 3d video game we am working on.  
 > [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">](https://github.com/fonseware/electronjs-setup)&nbsp;&nbsp;[**electron.js setup**](https://github.com/fonseware/electronjs-setup) — a free electron.js setup script which helps users to create new electron projects.  
 > . . . and more repos [here](https://github.com/orgs/fonseware/repositories)
 
