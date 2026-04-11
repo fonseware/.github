@@ -17,10 +17,9 @@
 
 #### **🌐 web and contact**
 > #### 🌏 view our site [fonseware.com](https://fnswe.me) [^1]
-[^1]: site is under construction, you may see broken links and missing content.
 > #### ✉️ mail us at [hello@fonseware.com](mailto:hello@fonseware.com)
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
-
+[^1]: site is under construction, you may see broken links and missing content.
 #### **💡 note**
 > #### responsible ai usage
 > we use ai as a powerful tool to automate mundane, repetitive tasks and streamline the boring bits of development. however, we draw a hard line when it comes to the "soul" of our projects. every bit of creative judgment, architectural logic, and artistic direction is handcrafted by us. ai helps us work faster, but the actual "art" and thinking behind our software, games and our works remain 100% human-made.
