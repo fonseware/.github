@@ -29,4 +29,4 @@
 > #### company direction
 > please note that we are not open for freelance commissions or external projects at this time. every piece of software or content we release is the result of internal company decisions and personal creative vision. we build what we want to see in the world, on our own terms.
 
-> <sub> © fonseka software interactive. fonseware is a brand identity operated by "fonseka software interactive", a legally registered entity. all projects, software, and content hosted here are the intellectual property of fonseka software interactive unless stated otherwise.</sub>
+> <sub> © fonseka software interactive. fonseware is a brand operated by "fonseka software interactive" (fsi), a legally registered entity. all projects, software, and content hosted here are the intellectual property of "fsi" unless stated otherwise.</sub>
