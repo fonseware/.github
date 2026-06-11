@@ -28,9 +28,6 @@
 > ```
 > . . . and more repos [here](https://github.com/orgs/fonseware/repositories)
 
-#### progress
-
-
 #### **🧍🏻‍♂️ team**
 > [<img src="https://github.com/shannonfonseka.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [shannonfonseka](https://github.com/shannonfonseka/) lead developer  
 > [<img src="https://github.com/LordWacxa.png" width="32" height="32" align="center">]()&nbsp;&nbsp; [LordWacxa](https://github.com/shannonfonseka/) tester & brainstormer
