@@ -36,4 +36,4 @@
 > #### 🌏 view our site [fonseware.com](https://fnswe.me) [^1]
 > #### ✉️ mail us at [hello@fonseware.com](mailto:hello@fonseware.com)
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
-[^1]: site is under construction, you may see broken links and missing content.
+[^1]: site is under construction, you may see broken links and missing content. development is slow, because this is a one man job.
