@@ -6,11 +6,11 @@
 > ```
 > completed:   ●●○○○○○○○○ 20%
 > ```
-> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware business one**]() — an upcoming free custom point of sale system software as a passion project.
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware business one**]() — an upcoming free custom point of sale system software.
 > ```
 > completed:   ●●○○○○○○○○ 10%
 > ```
-> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware vault**]() — an upcoming free file encyption and decryption software as a passion project.
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware vault**]() — an upcoming free file encyption and decryption software.
 > ```
 > completed:   ●●●●●●●○○○ 60%
 > ```
@@ -18,7 +18,11 @@
 > ```
 > completed:   ●●●●●○○○○○ 40%
 > ```
-> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware screenkit**]() — an upcoming free set of utlilty software for oled screen users.
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware screen kit**]() — an upcoming free utlilty software for oled screen users.
+> ```
+> completed:   ●●●●●●●○○○ 80%
+> ```
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware video hoarder**]() — an upcoming free utlilty software for to download videos.
 > ```
 > completed:   ●●●●●●●○○○ 80%
 > ```
