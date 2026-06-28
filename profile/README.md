@@ -14,7 +14,7 @@
 > ```
 > completed:   ●●●●●●●○○○ 60%
 > ```
-> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware playout studio**]() — an upcoming free custom broadcast playout software for community & small broadcasters.
+> [<img src="https://github.com/fonseware.png" width="32" height="32" align="center">]()&nbsp;&nbsp;[**fonseware playout studio**]() — an upcoming free playout software for community & small broadcasters.
 > ```
 > completed:   ●●●●●○○○○○ 40%
 > ```
